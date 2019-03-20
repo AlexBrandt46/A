@@ -1,1 +1,2 @@
 Speed = 2.4 dots/second
+1 dot takes 1/2.4 seconds
