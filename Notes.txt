@@ -1,2 +1,8 @@
 Speed = 2.4 dots/second
 1 dot takes 1/2.4 seconds
+store messages as array of strings with '.' meaning dot and '-' for dash, spaces between parts of letters will be 'l', space between whole letters will be 'c', and space between words will be ' '
+
+1 dash = 3 dots
+space betweens parts of letter is equal to 1 dot
+space between 2 letters is equal to 3 dots
+space btween two words is equal to seven dots
